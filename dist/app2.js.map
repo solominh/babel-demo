@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/app2.js"],"names":["person","console","log","name"],"mappings":";;AACA;;;;;;AAEA,IAAIA,SAAS,qBAAW,KAAX,CAAb;AACAC,QAAQC,GAAR,CAAYF,OAAOG,IAAnB","file":"app2.js","sourcesContent":["\r\nimport Person from './Person';\r\n\r\nlet person = new Person('Joe');\r\nconsole.log(person.name);\r\n"]}
